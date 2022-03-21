@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.198d85b1.css",
-    "main.js": "/portfolio/static/js/main.08153a71.js",
+    "main.css": "/portfolio/static/css/main.95617aa3.css",
+    "main.js": "/portfolio/static/js/main.81590297.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/TestPhoto.png": "/portfolio/static/media/TestPhoto.f8e07a6ba0c6f0c02cbd.png",
+    "static/media/mewt.PNG": "/portfolio/static/media/mewt.03ebe1aaef20501cfc92.PNG",
     "static/media/ahri.png": "/portfolio/static/media/ahri.df054c02401604fe1ee7.png",
     "static/media/intro-skyidea.mp4": "/portfolio/static/media/intro-skyidea.cf0671dca6e09f3e578c.mp4",
     "static/media/gitHub.png": "/portfolio/static/media/gitHub.041a4b980b3ee4dd033d.png",
@@ -14,12 +15,12 @@
     "index.html": "/portfolio/index.html",
     "static/media/left-arrow.svg": "/portfolio/static/media/left-arrow.2c4935f680a2c2c5553d38d379cfd31c.svg",
     "static/media/right-arrow.svg": "/portfolio/static/media/right-arrow.2daf46f1ab345ced970352a065e69639.svg",
-    "main.198d85b1.css.map": "/portfolio/static/css/main.198d85b1.css.map",
-    "main.08153a71.js.map": "/portfolio/static/js/main.08153a71.js.map",
+    "main.95617aa3.css.map": "/portfolio/static/css/main.95617aa3.css.map",
+    "main.81590297.js.map": "/portfolio/static/js/main.81590297.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.198d85b1.css",
-    "static/js/main.08153a71.js"
+    "static/css/main.95617aa3.css",
+    "static/js/main.81590297.js"
   ]
 }
